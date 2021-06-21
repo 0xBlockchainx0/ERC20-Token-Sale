@@ -7,41 +7,38 @@
 
 # ERC20 Token Creation and Crowd Sale
 
-Utilising the Truffle framework to test and deploy the token, this repo also contains a rudimentary front end built with React that allows users to 'buy' tokens in a crowd sale fashion. Said token has been deployed and tested on the Ropsten and Goerli networks.
+Utilising the Truffle framework to test and deploy the token, this repo also contains a rudimentary front end, built with React, that allows users to 'buy' tokens in a crowd sale fashion. Said token has been deployed and tested on the Ropsten and Goerli networks.
    
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+
+### Real-World Use-Cases
 
 
-### Real-World Use-Case for this Project
+💰 Tokenization of any assets as fungible tokens (ERC20)
 
-
-💰 Tokenization of any Assets as fungible Tokens (ERC20)
-
-🏦 Creation of Bonus Programs, Vouchers, etc.
+🏦 Creation of bonus programs, vouchers, etc
 
 💲 Creation of a new crypto currency
 
-🧾 Creation of a Payment-layer on top of Ethereum
+🧾 Creation of a payment-layer on top of Ethereum
 
 
-### Development-Goal
+### Development-Goals
 
 
-🧰 Understand truffle-config json file
+🧰 Develop deeper understanding of truffle-config files
 
 🤖 Understand deployment of dApps
 
-🦸‍♂️ Understand Tokenization using Open-Zeppelin Smart Contracts
+🦸‍♂️ Understand tokenization using Open-Zeppelin Smart Contracts
 
-☑️ Deeper dive into Unit-Testing
-
-
+☑️ Deeper dive into unit-testing
 
 
-### Built With
+
+
+## Built With
 
 * [Truffle](https://www.trufflesuite.com/)
 * [React](https://reactjs.org/)
@@ -50,7 +47,6 @@ Utilising the Truffle framework to test and deploy the token, this repo also con
 * [Chai](https://www.chaijs.com/)
 * [Web3js](https://web3js.readthedocs.io/en/v1.3.4/)
 * [Node.js](https://nodejs.org/en/)
-
 
 
 <!-- GETTING STARTED -->
@@ -82,17 +78,12 @@ Utilising the Truffle framework to test and deploy the token, this repo also con
   ```bash
   npm run start
   ```
+  
+<p align="center">
+  <img width="777" height="393" src="/screenshot.png">
+</p>
 
   
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
 
 <!-- LICENSE -->
 ## License
