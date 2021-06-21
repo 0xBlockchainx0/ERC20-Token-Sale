@@ -90,6 +90,7 @@ Utilising the Truffle framework to test and deploy the token, this repo also con
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 
@@ -125,3 +126,4 @@ This project was created as part of the Ethereum Blockchain Developer Bootcamp a
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/RAMWatson/
+[product-screenshot]: screenshot.jpg
