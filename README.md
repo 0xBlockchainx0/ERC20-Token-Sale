@@ -9,9 +9,7 @@
 
 Utilising the Truffle framework to test and deploy the token, this repo also contains a rudimentary front end, built with React, that allows users to 'buy' tokens in a crowd sale fashion, reminiscent of the infamous 2017/18 ICO craze.
 
-Said token was tested using Truffle’s local development network before being deployed and tested on the Ropsten and Goerli networks.
-
-Unit tests of the Smart Contracts, written in Solidity, were performed using JavaScript with Mocha and Chai. These can be found under the “test” directory.
+Unit tests of the Smart Contracts, written in Solidity, were performed using JavaScript with Mocha and Chai. These can be found under the “test” directory. Said contracts were deployed to Truffle’s local development network before being deployed and tested on the Ropsten and Goerli networks.
 
 
 
