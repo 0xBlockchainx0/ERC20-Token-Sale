@@ -53,6 +53,7 @@ Unit tests of the Smart Contracts, written in Solidity, were performed using Jav
 * [Chai](https://www.chaijs.com/)
 * [Web3js](https://web3js.readthedocs.io/en/v1.3.4/)
 * [Node.js](https://nodejs.org/en/)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.6/)
 
 
 <!-- GETTING STARTED -->
