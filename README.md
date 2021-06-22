@@ -39,7 +39,7 @@ Unit tests of the Smart Contracts, written in Solidity, were performed using Jav
 
 🦸‍♂️ Understand tokenization using Open-Zeppelin Smart Contracts
 
-☑️ Deeper dive into unit-testing
+☑️ Deep dive into unit-testing
 
 
 
@@ -64,7 +64,7 @@ Unit tests of the Smart Contracts, written in Solidity, were performed using Jav
    MNEMONIC=
   ```
    
-2. If looking to deploy on ETH test networks then enter the relevant URL path for your web3 connection in the truffle-config.js file ([Infura](https://infura.io/) was used for this project)
+2. If looking to deploy on ETH test networks or main net then enter the relevant URL path for your web3 connection in the truffle-config.js file ([Infura](https://infura.io/) was used for this project)
   ```JS
    goerli_infura: {
       provider: function() {
@@ -89,6 +89,13 @@ Unit tests of the Smart Contracts, written in Solidity, were performed using Jav
   <img width="777" height="393" src="/screenshot.png">
 </p>
 
+4. Changing the token's name and ticker can be acheived through editing MyToken.sol in /contracts (don't forget to update the front end too!)
+  ```sol
+  constructor(uint256 initialSupply) ERC20Detailed("Azure","AZE", 0) public {
+  ```
+  
+5. Changes to the front end can be made by editing the App.js file found in /client/src
+ 
   
 
 <!-- LICENSE -->
