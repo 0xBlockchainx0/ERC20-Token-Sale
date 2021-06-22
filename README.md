@@ -7,9 +7,13 @@
 
 # ERC20 Token Creation and Crowd Sale
 
+ERC-20 tokens are blockchain-based assets that have value and can be sent and received. The primary difference is that instead of running on their own blockchain, ERC-20 tokens are issued on the Ethereum network.
+
 Utilising the Truffle framework to test and deploy the token, this repo also contains a rudimentary front end, built with React, that allows users to 'buy' tokens in a crowd sale fashion, reminiscent of the infamous 2017/18 ICO era.
 
-Unit tests of the Smart Contracts, written in Solidity, were performed using JavaScript with Mocha and Chai. These can be found under the “test” directory. Said contracts were deployed to Truffle’s local development network before being deployed and tested on the Ropsten and Goerli networks.
+Unit tests of the Smart Contracts, written in Solidity, were performed using JavaScript with Mocha and Chai. These can be found in the /test directory. Said contracts were deployed to Truffle’s local development network before being deployed and tested on the Ropsten and Goerli networks.
+
+
 
 
 
